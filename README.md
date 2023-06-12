@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @twilbur1997
 - 👀 I’m interested in Machine Learning and AI, mostly architecting on AWS
-- 🌱 I’m currently learning how to find a better team to build amazing things with!
+- 🌱 I’m currently looking to find a team to build amazing things
 - 💞️ I’m looking to collaborate on a quick curiousity that turns into a passion project
 - 📫 How to reach me: wilburtw@amazon.com or twilbur@umich.edu
 
